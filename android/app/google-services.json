@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35834665964",
+    "firebase_url": "https://pass-manager-af016-default-rtdb.firebaseio.com",
+    "project_id": "pass-manager-af016",
+    "storage_bucket": "pass-manager-af016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35834665964:android:83c980070eb10f864dbec9",
+        "android_client_info": {
+          "package_name": "com.mkmandawar.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35834665964-g586na8j83ja2mvccuaajinhgc091ujt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Mx7dNvD2TFuPZDRh27qs0OQtMne49ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35834665964-g586na8j83ja2mvccuaajinhgc091ujt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35834665964-n3kignfnthmoh86uje2nspn2aurqe6oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mkmandawar.password_manager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
